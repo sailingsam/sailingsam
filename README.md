@@ -3,7 +3,7 @@
 Software engineer. I build backend systems and AI-powered platforms. Languages and frameworks are tools — I use whatever the problem needs.
 
 - Currently building [pitara.dev](https://pitara.dev) on the side
-- Previously at [Clearfeed.ai](https://clearfeed.ai), Wabby.ai, [Vyazen.com](https://vyazen.com) and NeyoGlobal.in
+- Previously at [Clearfeed.ai](https://clearfeed.ai), [Wabby.ai](https://wabby.ai), [Vyazen.com](https://vyazen.com) and NeyoGlobal.in
 - CS @ BITS Pilani (2023–2027)
 
 ### Reach me
